@@ -1,0 +1,31 @@
+Autoavaliación:
+===============
+
+Listaxe de responsables:
+------------------------
+
+* CPE cliente xenérico (DHCP, NAT, ...): Diego Prieto Carrete
+* CGNAT: Diego Prieto Carrete
+* Deseño da topoloxía: Javier Nuñez Bon y Diego Prieto Carrete
+* VPN: Javier Nuñez Bon y Diego Prieto Carrete
+* 6rd: Diego Prieto Carrete
+* Probas: Javier Nuñez Bon y Diego Prieto Carrete
+* Coordinación direccionamento: Javier Nuñez Bon y Diego Prieto Carrete
+* Acceso Internet IPv4 (BGP): Javier Nuñez Bon y Diego Prieto Carrete
+* Acceso Internet IPv6 (BGP): Diego Prieto Carrete
+* Encamiñamento: Javier Nuñez Bon y Diego Prieto Carrete
+* xDSL: Javier Nuñez Bon y Diego Prieto Carrete
+
+… Engadir todos os aspectos necesarios.
+* HSRP y tracking: Javier Nuñez Bon
+
+
+Nota *esperada* do proxecto: 
+----------------------------
+
+Calificación (0­–10)¹: 8
+
+¹A cualificación debe estar baseada no funcionamento da maqueta,
+a cantidade de tarefas desenvolvidas, a calidade da realización
+e o número e dificultade das melloras realizadas.
+
